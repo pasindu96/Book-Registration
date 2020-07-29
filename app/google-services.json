@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770235005310",
+    "firebase_url": "https://bookregistration.firebaseio.com",
+    "project_id": "bookregistration",
+    "storage_bucket": "bookregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770235005310:android:913e4f3a5068cc7a705b2f",
+        "android_client_info": {
+          "package_name": "lk.kln.bookregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770235005310-17kd377kpk28b5q9lqbd4lhq7dcepi8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.kln.bookregistration",
+            "certificate_hash": "61188a0c5085299c2edfc48e3dde8457f5b69f01"
+          }
+        },
+        {
+          "client_id": "770235005310-mp741fe5r4usnu2knnvaj3hkh7l79a9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhs4UMrxLPrQMkaiDFZYbL2-EGInB_8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770235005310-mp741fe5r4usnu2knnvaj3hkh7l79a9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
